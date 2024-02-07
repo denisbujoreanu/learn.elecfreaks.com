@@ -1,3 +1,5 @@
+The images don't accurately depict the current connection of all 15 servos. The ones that came with the most recent version of the XGO Lite seem to be daisy-chained together with just one of the servos, the shoulder one usually, connecting to the board.
+It makes replacing a servo a bit confusing and potentially nerve wrecking as there's already a proble with the robot and not having clear and accurate service instructions only adds to the stress of having the robot break quite shortly after getting it.
 ---
 sidebar_position: 9
 sidebar_label: FAQ
